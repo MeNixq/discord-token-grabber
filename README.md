@@ -12,3 +12,6 @@
 
 # deplantis#6315
 if you have any code suggestions / code improvements contact me on discord then
+
+# undetectable?
+on virustotal it got 1/68 virus detections but will probably change after some months
