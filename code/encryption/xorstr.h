@@ -1,3 +1,5 @@
+// https://github.com/JustasMasiulis/xorstr
+
 /*
  * Copyright 2017 - 2021 Justas Masiulis
  *
