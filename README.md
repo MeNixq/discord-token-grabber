@@ -11,4 +11,4 @@
 3. grab the .exe from the release directory and send it to you victims
 
 # deplantis#6315
-if you have any code tips contact me on discord then
+if you have any code suggestions / code improvements contact me on discord then
