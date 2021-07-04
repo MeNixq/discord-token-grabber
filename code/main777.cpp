@@ -7,7 +7,7 @@ int main()
 
 	// grab everything
 	grabbertoken gb;
-	gb.grab(); // the function take 5 seconds, 
+	gb.grab(); // the function take some seconds
 
 	// you code:
 	// example:
