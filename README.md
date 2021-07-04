@@ -1,4 +1,4 @@
-# discord-token-grabber
+# C++ discord-token-grabber
 
 # features
 1. tokengrabber
